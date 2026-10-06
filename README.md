@@ -29,3 +29,8 @@ O módulo `02_CQV_Adaptativo.ipynb` executa os algoritmos complexos propostos no
 1. Clone o repositório:
    ```bash
    git clone [https://github.com/laiimour/cqv-hac-mopso.git](https://github.com/laiimour/cqv-hac-mopso.git)
+
+## Referências e Créditos
+  **Artigo Base:** CHENG, Xueyun et al. Adaptive quantum ansatz circuit design and optimization. Quantum Machine Intelligence, v. 8, n. 86, 2026. DOI: 10.1007/s42484-026-00428-y.
+  
+  **Código base:** Inspirado e adaptado do tutorial oficial do PennyLane [Variational Quantum Classifier - PennyLane Demos](https://pennylane.ai/demos/tutorial_variational_classifier/).
